@@ -1,6 +1,6 @@
-# Leitura de email usando Azure Functions
+# Gmail Reader
 
-Esse projeto apresenta uma função utilizando Azure Functions que lê emails com um assunto específico, baixa o anexo e salva e uma conta do Azure Blob Storage.
+Projeto que implementa uma função em Python, utilizando Azure Functions, que lê emails com um assunto específico, baixa o anexo e salva e uma conta do Azure Data Lake Storage.
 
 ## Funcionamento
 
