@@ -5,7 +5,7 @@ Projeto que implementa uma função em Python, utilizando Azure Functions, que l
 ## Funcionamento
 
 O projeto é dividido em 5 funções simples:
-- authenticate_gmail: função responsável pela autenticação com o serviço do Gmail utilziando as API's de integração disponibilizadas pelo Google.
+- authenticate_gmail: função responsável pela autenticação com o serviço do Gmail utilizando as API's de integração disponibilizadas pelo Google.
 - get_samsung_health_email: função responsável pela pela busca do email com o remetente e assuntos pré definidos. 
 - get_samsung_health_email: função responsável pela conexão com a STORAGE e o upload do anexo no container e pastas definidos
 - process_email_with_attachments: função responsável pela extração do anexo do email
